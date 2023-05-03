@@ -1,0 +1,8 @@
+body {background-color: #C2CAB6;}
+h1{color: #A522FA;font-family: Helvetica; font-size: 40px; border-style: dotted; border-width: 3px; border-color: #531678;background-color: #17B268;text-decoration: underline;}
+p{color: #531678; font-family: Helvetica; font-size: 14px;}
+a{color: #F49712; font-family: Helvetica; font-size: 14px; }
+ul{list-style-type: none;margin: 0; padding: 0;text-decoration:none;}
+li a{display: block; width: 200px;}
+img{border-style: dotted; border-width: 3px; border-color: #531678;}
+a:hover{color: black;}
